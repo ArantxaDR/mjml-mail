@@ -1,0 +1,73 @@
+<mjml>
+  <mj-head>
+    <mj-title>CV Arantxa</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all background-color ="white" font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FBF8DF" width="600px">
+       
+       
+    <mj-section  full-width="full-width" background-color="#ee826d" padding-top='40px' padding-bottom="0px">
+      </mj-section>
+      
+        <mj-image   width="600px"  href="https://i.ibb.co/wgfJHd2/readme-back.png" src="https://i.ibb.co/wgfJHd2/readme-back.png"></mj-image>
+    
+    
+   
+       <mj-section  full-width="full-width" background-color="#ee826d" padding-top='40px' padding-bottom="0px">
+      <mj-column width="100%">
+        <mj-text color="#637381" font-size="16px">
+          <p>Hola,</p>
+        </mj-text>
+        <mj-text color="#637381" font-size="16px">
+          <p> Mi nombre es <strong>Arantxa Delgado</strong> y soy <strong>Programadora FrontEnd Jr</strong>.
+        </p> 
+        </mj-text>
+        <mj-text color="#637381" font-size="16px">
+          <p>Empecé a trabajar en El Corte Inglés, en el departamento de librería, donde aprendí a
+<strong>trabajar en equipo</strong>, bajo presión y a saber comunicarme de forma empática. Pero en la
+programación he encontrado la ilusión y las ganas de mejorar que creí perdidas.
+</p>
+        </mj-text>
+        <mj-text color="#637381" font-size="16px">
+            <p>En el bootcamp Adalab Digital he aprendido <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> y <strong>React</strong>, así como a
+trabajar dentro de la filosofía <strong>Agile</strong>, con el marco de trabajo <strong>Scrum</strong>, todo ello en
+remoto.</p>
+        </mj-text>
+        <mj-text color="#637381" font-size="16px">
+            <p>Soy una persona <em>proactiva</em>, <em>asertiva</em> y <em>resiliente</em>, abierta a nuevos retos, con mucho
+entusiasmo y ganas de seguir aprendiendo y superarme.
+</p>
+        </mj-text>
+        <mj-text color="#637381" font-size="16px">
+            <p>Un saludo.</p>
+        </mj-text>
+        <mj-button background-color="#ee826d" align="center" color="#ffffff" border-radius= "15px" font-size="17px" font-weight="bold"  href="https://drive.google.com/file/d/1Y7h1910kDy60c0yNJQeWBr9NNZFuNHFi/view?usp=sharing" width="300px">
+            Descargar CV
+          </mj-button>
+      </mj-column>
+    </mj-section>
+     <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding-bottom="20px" align="center">
+            <mj-social-element name="github" href="https://github.com/ArantxaDR" background-color="#ee826d">
+            </mj-social-element>
+            <mj-social-element name="linkedin" href="https://www.linkedin.com/in/arantxadelgadoruiz/" background-color="#ee826d">
+            </mj-social-element>
+          </mj-social>
+          </mj-section>
+          <mj-section  full-width="full-width" background-color="#ee826d" padding-top='40px' padding-bottom="0px">
+          <mj-column>
+          
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <small>&copy; Arantxa Delgado Ruiz</small>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+          
+   </mj-body>
+</mjml>
