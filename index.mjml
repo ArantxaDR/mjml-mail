@@ -11,14 +11,14 @@
   <mj-body background-color="#FBF8DF" width="600px">
        
        
-    <mj-section  full-width="full-width" background-color="#ee826d" padding-top='40px' padding-bottom="0px">
+    <mj-section  full-width="full-width" background-color="#474d8f" padding-top='40px' padding-bottom="0px">
       </mj-section>
       
-        <mj-image   width="600px"  href="https://i.ibb.co/wgfJHd2/readme-back.png" src="https://i.ibb.co/wgfJHd2/readme-back.png"></mj-image>
+        <mj-image   width="600px"  href="https://i.ibb.co/wgfJHd2/readme-back.png" src="https://i.ibb.co/mqbW3HM/personal-banner.png" alt="personal-banner" border="0"></mj-image>
     
     
    
-       <mj-section  full-width="full-width" background-color="#ee826d" padding-top='40px' padding-bottom="0px">
+       <mj-section  full-width="full-width" background-color="#474d8f" padding-top='40px' padding-bottom="0px">
       <mj-column width="100%">
         <mj-text color="#637381" font-size="16px">
           <p>Hola,</p>
@@ -46,7 +46,7 @@ entusiasmo y ganas de seguir aprendiendo y superarme.
         <mj-text color="#637381" font-size="16px">
             <p>Un saludo.</p>
         </mj-text>
-        <mj-button background-color="#ee826d" align="center" color="#ffffff" border-radius= "15px" font-size="17px" font-weight="bold"  href="https://drive.google.com/file/d/1Y7h1910kDy60c0yNJQeWBr9NNZFuNHFi/view?usp=sharing" width="300px">
+        <mj-button background-color="#474d8f" align="center" color="#ffffff" border-radius= "15px" font-size="17px" font-weight="bold"  href="https://drive.google.com/file/d/1Y7h1910kDy60c0yNJQeWBr9NNZFuNHFi/view?usp=sharing" width="300px">
             Descargar CV
           </mj-button>
       </mj-column>
@@ -54,13 +54,13 @@ entusiasmo y ganas de seguir aprendiendo y superarme.
      <mj-section>
         <mj-column width="100%" padding="0">
           <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding-bottom="20px" align="center">
-            <mj-social-element name="github" href="https://github.com/ArantxaDR" background-color="#ee826d">
+            <mj-social-element name="github" href="https://github.com/ArantxaDR" background-color="#474d8f">
             </mj-social-element>
-            <mj-social-element name="linkedin" href="https://www.linkedin.com/in/arantxadelgadoruiz/" background-color="#ee826d">
+            <mj-social-element name="linkedin" href="https://www.linkedin.com/in/arantxadelgadoruiz/" background-color="#474d8f">
             </mj-social-element>
           </mj-social>
           </mj-section>
-          <mj-section  full-width="full-width" background-color="#ee826d" padding-top='40px' padding-bottom="0px">
+          <mj-section  full-width="full-width" background-color="#474d8f" padding-top='40px' padding-bottom="0px">
           <mj-column>
           
           <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
