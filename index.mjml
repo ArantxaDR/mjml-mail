@@ -115,7 +115,7 @@
           padding-bottom="0px"
           padding-top="0px"
         >
-          <small>&copy Arantxa Delgado 2021</small>
+          <small>&copy; Arantxa Delgado 2021</small>
         </mj-text>
         <mj-text
           align="center"
