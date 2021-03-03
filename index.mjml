@@ -13,6 +13,15 @@
 
     <mj-section background-color="#ffffff" full-width="full-width">
       <mj-column>
+        <mj-divider
+          border-color="#474d8f"
+          border-style="solid"
+          border-width="1px"
+          padding-left="100px"
+          padding-right="100px"
+          padding-bottom="20px"
+          padding-top="20px"
+        ></mj-divider>
         <mj-text color="#637381" font-size="16px">
           <p>Hola,</p>
         </mj-text>
